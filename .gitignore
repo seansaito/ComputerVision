@@ -2,3 +2,5 @@
 *.pyc
 *.py~
 *lmdb
+*.caffemodel.h5
+*.solverstate.h5
