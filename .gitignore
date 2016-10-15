@@ -4,3 +4,6 @@
 *lmdb
 *.caffemodel.h5
 *.solverstate.h5
+*.h5
+*.caffemodel
+*.solverstate
